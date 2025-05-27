@@ -15,7 +15,6 @@ release = 'v1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'recommonmark',
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
 ]
