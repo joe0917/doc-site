@@ -5,8 +5,6 @@ Welcome to 一本
    :maxdepth: 2
    :caption: 目录:
  
-   example
-   22
    33
  
 Indices and tables
