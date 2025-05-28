@@ -22,7 +22,7 @@ extensions = [
 
 # 设置主题
 html_theme = 'sphinx_rtd_theme'
-language = 'zh_CN'
+language = 'en'
 
 # 支持Markdown
 source_suffix = {
